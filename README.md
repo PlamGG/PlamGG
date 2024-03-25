@@ -1,5 +1,6 @@
 ### Hi I'm Plam this is my github profile 👋!
  Hello, this is "Plam". This profile is for posting the work that we try to make and try to make it work. If something doesn't work, it means it's a "bug".
+ 
 
   
 ##  That can be used now
@@ -28,6 +29,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+
+
+
+
+
+<img src="![Screenshot (149)](https://github.com/PlamGG/PlamGG/assets/145746972/def91d01-7d7c-43dd-b07a-d6d168611a2b)
+" alt="waffle with fruits" width="322" height="215">
 
 
 
