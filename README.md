@@ -2,7 +2,7 @@
  Hello, this is "Plam". This profile is for posting the work that we try to make and try to make it work. If something doesn't work, it means it's a "bug".
 
   
-## H2 🔭That can be used now
+## H2 That can be used now
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
