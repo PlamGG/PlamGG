@@ -39,8 +39,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/PlamGG?username=myusername&theme=PlamGG)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlamGG&hide_progress=true)
 <!--
 **PlamGG/PlamGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
