@@ -34,8 +34,7 @@
 
 
 
-<img src="![Screenshot (149)](https://github.com/PlamGG/PlamGG/assets/145746972/def91d01-7d7c-43dd-b07a-d6d168611a2b)
-" alt="waffle with fruits" width="322" height="215">
+<img src="![Screenshot (149)](https://github.com/PlamGG/PlamGG/assets/145746972/def91d01-7d7c-43dd-b07a-d6d168611a2b)  width="322" height="215">
 
 
 
