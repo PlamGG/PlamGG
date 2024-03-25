@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋![c-](https://github.com/PlamGG/PlamGG/assets/145746972/ff12395a-3f2e-4d70-8089-9142b6c52a2d)
+![js](https://github.com/PlamGG/PlamGG/assets/145746972/0d928d5d-b182-4918-b8a9-a13428361a0d)
+![python (1)](https://github.com/PlamGG/PlamGG/assets/145746972/e900ae21-3e36-4352-b3a8-9013baa2fcd7)
+![duck](https://github.com/PlamGG/PlamGG/assets/145746972/bac64a8a-fc2e-42cf-96a2-b4425403531a)
+![machine-learning](https://github.com/PlamGG/PlamGG/assets/145746972/c36a35d9-87f1-43c1-9688-2a84532dd5b0)
+![html-5](https://github.com/PlamGG/PlamGG/assets/145746972/c78801f0-4cb1-4ef3-bdb7-c4ff46745e96)
+![ui](https://github.com/PlamGG/PlamGG/assets/145746972/d8299a5d-f67b-4541-9e60-c7b41c4a3336)
+![circuit](https://github.com/PlamGG/PlamGG/assets/145746972/fcd8697e-4d40-41f5-b2cc-a1551aaab6ec)
+![nodejs](https://github.com/PlamGG/PlamGG/assets/145746972/c8229de8-867e-4874-8c00-cb8093a2db6f)
+
 
 <!--
 **PlamGG/PlamGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
