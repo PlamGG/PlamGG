@@ -88,6 +88,6 @@ Hello, this is **"Plam"**! 🚀 This profile showcases the projects I create and
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Code it's not a bug, it's an undocumented feature!"* 
 
 </div>
