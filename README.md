@@ -61,6 +61,9 @@ Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and
   <img src="https://komarev.com/ghpvc/?username=PlamGG&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
+<img width="1600" height="1025" alt="image" src="https://github.com/user-attachments/assets/ca663c95-ef9b-4c21-82a3-255b18cd2688" />
+
+
 <div align="center">
 
 *"Code it's not a bug, it's an undocumented feature!"* 
