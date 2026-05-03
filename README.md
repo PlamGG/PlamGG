@@ -8,10 +8,26 @@
 
 Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and experiment with. If something doesn't work perfectly, consider it a *feature in development* (definitely not a bug 😉).
 
-## 🛠️ My Digital Toolbox
-<p align="center">
+## 🛠️ Technologies I Work With
+
+### 💻 Programming Languages
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,html,css,vue,django,react,tailwind,nodejs,tensorflow,pytorch,postgres,mongodb,figma,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c&perline=10" />
+  </a>
+</p>
+
+### 🌐 Web & Backend Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,vue,django,react,tailwind,nodejs,postgres,mongodb&perline=10" />
+  </a>
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=10" />
   </a>
 </p>
 
@@ -20,15 +36,6 @@ Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and
 - 🔬 **AI Exploration**: Playing around with various AI models and experimenting with new techniques.
 - 🐍 **Deep Learning**: Fine-tuning models for image classification and natural language processing.
 - ⚛️ **Full Stack Development**: Building robust applications with Python and Modern JS/TS frameworks.
-
-## 📈 Activity & Insights
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PlamGG&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ## 📫 Let's Connect!
 
@@ -45,9 +52,9 @@ Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PlamGG&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-
-<img width="1600" height="1025" alt="image" src="https://github.com/user-attachments/assets/67e46b5d-7697-4da3-869d-c2454580dfd6" />
-
+<br>
+<img width="1600" height="1025" alt="image" src="https://github.com/user-attachments/assets/82fb1455-07c5-4a60-a81f-83f07ac494ac" />
+<br>
 <div align="center">
 
 *"Code it's not a bug, it's an undocumented feature!"* 
