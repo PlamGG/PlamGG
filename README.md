@@ -8,37 +8,12 @@
 
 Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and experiment with. If something doesn't work perfectly, consider it a *feature in development* (definitely not a bug 😉).
 
-## 🛠️ Technologies I Work With
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web & Backend Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-## 🌱 Currently Learning & Exploring
-
-### 📚 Advanced Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧠 Deep Dive AI
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+## 🛠️ My Digital Toolbox
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,html,css,vue,django,react,tailwind,nodejs,tensorflow,pytorch,postgres,mongodb,figma,git&perline=9" />
+  </a>
+</p>
 
 ## 🎯 Current Focus
 
@@ -46,12 +21,22 @@ Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and
 - 🐍 **Deep Learning**: Fine-tuning models for image classification and natural language processing.
 - ⚛️ **Full Stack Development**: Building robust applications with Python and Modern JS/TS frameworks.
 
+## 📈 Activity & Insights
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PlamGG&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/PlamGG?style=social)](https://github.com/PlamGG)
-[![GitHub stars](https://img.shields.io/github/stars/PlamGG?style=social)](https://github.com/PlamGG)
+[![GitHub followers](https://img.shields.io/github/followers/PlamGG?style=for-the-badge&logo=github&label=Followers)](https://github.com/PlamGG)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DuckerMaster-FFD21E?style=for-the-badge)](https://huggingface.co/DuckerMaster)
+[![Kaggle](https://img.shields.io/badge/Kaggle-DuckerMaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/duckermaster)
 
 </div>
 
@@ -61,8 +46,7 @@ Hello, this is **"PLAM"**! 🚀 This profile showcases the projects I create and
   <img src="https://komarev.com/ghpvc/?username=PlamGG&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<img width="1600" height="1025" alt="image" src="https://github.com/user-attachments/assets/ca663c95-ef9b-4c21-82a3-255b18cd2688" />
-
+<img width="1600" height="1025" alt="image" src="https://github.com/user-attachments/assets/67e46b5d-7697-4da3-869d-c2454580dfd6" />
 
 <div align="center">
 
